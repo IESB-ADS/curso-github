@@ -1,2 +1,2 @@
-# curso-github
+# Curso Github
 Descrição opcional
